@@ -1,5 +1,5 @@
 {
-  "name": "mathielen/import-engine",
+  "name": "avtonom/mathielen-import-engine",
   "type": "library",
   "description": "Full-blown importer stack for importing almost any data into your application",
   "keywords": [
@@ -24,7 +24,7 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "ddeboer/data-import": "0.18.0",
+    "ddeboer/data-import": "~0.20",
     "symfony/event-dispatcher": "*"
   },
   "require-dev": {
